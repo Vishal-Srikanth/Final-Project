@@ -7,3 +7,9 @@ In this I cover many things, among these things are:
 - [Repo Location] (https://github.com/Vishal-Srikanth/Final-Project)
 - Later Jupyter Notebooks 
 - Then the actual project.
+- The following are the concept covered:
+    - EDA (cleaning and visualization)
+    - Regression Model
+    - Classification
+    - Feature Engineering
+    - Bootstrapping & Cross Validation
