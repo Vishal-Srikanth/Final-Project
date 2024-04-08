@@ -6,4 +6,4 @@ In this I cover many things, among these things are:
 - Markdown file
 - [Repo Location] (https://github.com/Vishal-Srikanth/Final-Project)
 - Later Jupyter Notebooks 
-
+- Then the actual project.
